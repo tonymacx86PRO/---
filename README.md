@@ -2,8 +2,8 @@
 
  - [x] Открой этот документ
  - [x] Нажми на ссылку
- - [] Посмотри что это
- - [Нажми на ссылку](https://www.youtube.com/watch?v=Lrj2Hq7xqQ8)
+ - [ ] Посмотри что это
+ - [Нажми на ссылку](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 # Иструкция
 
 ![Иструкция как нажать на ссылку](https://i.imgur.com/V911UtT.png)
